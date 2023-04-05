@@ -1,6 +1,6 @@
 # appjam
 
-A new Flutter project.
+MUHTEŞEM İREM
 
 ## Getting Started
 
